@@ -1,0 +1,38 @@
+h1 {
+    font-size: 40px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    text-align: center;
+  }
+  
+  h3 {
+    font-size: 22px;
+    color: #12202C;
+    text-align: center;
+  }
+  
+  #image {
+    height: 400px;
+    display: block;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  #img-caption {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    text-align: center;
+  }
+  
+  #tribute-info {
+    font-family: Verdana, Geneva, sans-serif;
+    margin: 140px;
+  }
+
+  .learnMore {
+  text-align: center; 
+  }
+
+#main {
+  background-color: grey;
+}
